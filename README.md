@@ -11,7 +11,7 @@ Web Server Installation:<br>
 Live Chat Service Testing:<br>
 • Accessed the live chat service through a web browser using the external IP address of the web server VM.<br> • Tested the live chat service across multiple sessions in different browsers to ensure that all users could see the same messages in real-time.<br><br>
 
-4.Containerization:<br>
+Containerization:<br>
 
 • Installed Docker on both the web server and database VMs.<br> • Downloaded the containerization source code for the project.<br><br>
 
